@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/localhost/sw.js",{scope:"/"})

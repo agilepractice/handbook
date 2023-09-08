@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Agile Practice Handbook</title>
+    <link>localhost/docs/</link>
+    <description>Recent content in Docs on Agile Practice Handbook</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="localhost/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>localhost/docs/arch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/docs/arch/</guid>
+      <description>Title # These documents have names that are short noun phrases. For example, &amp;ldquo;ADR 1: Deployment on Ruby on Rails 3.0.10&amp;rdquo; or &amp;ldquo;ADR 9: LDAP for Multitenant Integration&amp;rdquo;
+Context: # This section describes the forces at play, including technological, political, social, and project local. These forces are probably in tension, and should be called out as such. The language in this section is value-neutral. It is simply describing facts.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>localhost/docs/sd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/docs/sd/</guid>
+      <description>Sensible Default # We write these practices up separately because most of them are not widely used in the industry, or they are commonly misunderstood or misapplied. We believe they are a key part of the &amp;ldquo;secret sauce&amp;rdquo; that Thoughtworks brings to our clients. The practices themselves aren&amp;rsquo;t in any way secret — we and others talk and write about them endlessly. The secret lies in knowing which ones to use, applied in the correct context, that enable us to solve the right problems at the right time.</description>
+    </item>
+    
+  </channel>
+</rss>
